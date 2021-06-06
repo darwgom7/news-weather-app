@@ -1,10 +1,10 @@
-
+import React from 'react'
 function App() {
-  return (
-    <div>
-      hello React!
-    </div>
-  );
+	return (
+		<div>
+			Hi, Material UI!
+		</div>
+	)
 }
 
-export default App;
+export default App
